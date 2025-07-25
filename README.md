@@ -1,6 +1,6 @@
 # DOG IMAGE GENERATOR
 
-shows a god image every time you click 
+shows a dog image every time you click 
 
-#AUTHOR
+# AUTHOR
 MS
